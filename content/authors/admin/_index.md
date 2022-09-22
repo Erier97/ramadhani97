@@ -1,6 +1,7 @@
 ---
 title: Rizki Ikhsan Ramadhani (Iki)
 role: ""
+avatar_filename: upgrading_220206.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true

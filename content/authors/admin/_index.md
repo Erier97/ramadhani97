@@ -14,8 +14,7 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@ikhsan97
-organizations:
-  - name: a
+organizations: []
 superuser: true
 status:
   icon: ☕️

@@ -4,9 +4,6 @@ role: ""
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-superuser: true
-status:
-  icon: ☕️
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,6 +14,11 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@ikhsan97
+organizations:
+  - name: a
+superuser: true
+status:
+  icon: ☕️
 ---
 Hi, I'm Ikhsan. I'm a copywriter by day and a UX writer enthusiast at night. My passion is creating content and visuals that resonate with people. I love playing games and connecting with people.
 

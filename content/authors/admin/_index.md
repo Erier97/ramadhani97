@@ -28,4 +28,4 @@ Hi, I'm Ikhsan. I'm a copywriter by day and a UX writer enthusiast at night. My 
 
 2 Years experience in the UKM F Economic English Club (EEC), the Capital Market Study Group (KSPM), and Hima Manajemen. 3 Times won first place in provincial level Stocklab competitions. Bachelor Degree in Human Resource Management.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV - Rizki Ikhsan.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

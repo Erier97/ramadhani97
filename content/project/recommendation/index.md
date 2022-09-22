@@ -1,5 +1,5 @@
 ---
-title: Copywriter Portfolio
+title: Copywriter Portfolio | Rizki Ikhsan R
 date: 2022-07-05T21:42:38.330Z
 summary: Here is my portfolio as...
 tags:

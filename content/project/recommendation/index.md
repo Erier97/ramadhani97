@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Copywriter Portfolio
+date: 2022-01-01
+summary: Here is my portfolio as copywriter...
 tags:
   - ML
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://drive.google.com/file/d/1NXfhsRjNOkdyo1prNCEF-G7spi-GEtwJ/view?usp=sharing
 ---

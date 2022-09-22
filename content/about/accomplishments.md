@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Courses and certificat&shy;ions'
 subtitle:
 
 # Date format
@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://certificates.revou.co/rizki-ramadhani-certificate-completion-dmmc22.pdf
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-04-08'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    organization: RevoU
+    organization_url: https://revou.co/
+    title: Intro to Digital Marketing
+    url: https://revou.co/mini-course-digital-marketing
+  - certificate_url: https://skillacademy.com/sertifikat/KRE8C8LRPDRJVS
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    date_start: '2020-09-01'
+    description: writing techniques with the right storytelling style in making non-fiction works.
+    organization: Skill Academy
+    organization_url: https://skillacademy.com/
     title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    url: https://skillacademy.com/p/kuasai-teknik-storytelling-and-creative-writing-untuk-non-fiksi?courseType=SingleCourse
+  - certificate_url: https://www.efset.org/cert/qwMPT6
+    date_end: ''
+    date_start: '2020-05-29'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: EF SET
+    organization_url: https://www.efset.org/
+    title: 'EF SET English Certificate B2 Upper Intermediate'
+    url: https://www.efset.org/english-certificate/
 
 design:
   columns: '1'

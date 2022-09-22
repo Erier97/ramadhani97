@@ -37,7 +37,7 @@ item:
     description: writing techniques with the right storytelling style in making non-fiction works.
     organization: Skill Academy
     organization_url: https://skillacademy.com/
-    title: Blockchain Fundamentals
+    title: Kuasai Teknik Storytelling & Creative Writing untuk Non-Fiksi
     url: https://skillacademy.com/p/kuasai-teknik-storytelling-and-creative-writing-untuk-non-fiksi?courseType=SingleCourse
   - certificate_url: https://www.efset.org/cert/qwMPT6
     date_end: ''

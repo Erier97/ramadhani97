@@ -1,8 +1,12 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: UX Writing Case Study | Pasarnow
+date: 2022-01-01
+summary: |-
+  Overview
+  Pasarnow is a multichannel online grocery marketplace.
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://medium.com/@ikhsan97/ux-writing-case-study-pasarnow-59ab8b455b56
+image:
+  filename: ""
 ---

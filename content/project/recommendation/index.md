@@ -1,6 +1,6 @@
 ---
 title: Copywriter Portfolio
-date: 2022-01-01
+date: 2022-07-05T21:42:38.330Z
 summary: Here is my portfolio as copywriter...
 tags:
   - ML

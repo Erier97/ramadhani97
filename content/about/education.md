@@ -30,7 +30,7 @@ experience:
     date_start: '2016-09-05'
     date_end: '2022-06-20'
     description: |2-
-        * Thesis on THE EFFECT OF PSYCHOLOGICAL CONTRACTS AND DISTRIBUTIVE JUSTICE ON EMPLOYEE ENGAGEMENT OF BANK SOE EMPLOYEES IN BANDAR LAMPUNG
+        * Thesis on The Effect of Psychological Contracts And Distributive Justice On Employee ENgagement Of Bank SOE Employees In Bandar Lampung
         * Economic English Club UKM F Unila
         * Kelompok Studi Pasar Modal UKM F Unila
 

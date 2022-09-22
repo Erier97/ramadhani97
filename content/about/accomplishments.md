@@ -28,7 +28,6 @@ item:
     date_start: '2021-04-08'
     description: ''
     organization: RevoU
-    company_logo: unila
     organization_url: https://revou.co/
     title: Intro to Digital Marketing
     url: https://revou.co/mini-course-digital-marketing

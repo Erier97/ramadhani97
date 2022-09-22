@@ -9,13 +9,13 @@ status:
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
-  - icon: twitter
+    link: mailto:rizki.ikhsan.ramadhani97@gmail.com
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.linkedin.com/in/ikhsanrmdhn12/
+  - icon: medium
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://medium.com/@ikhsan97
 ---
 Hi, I'm Ikhsan. I'm a copywriter by day and a UX writer enthusiast at night. My passion is creating content and visuals that resonate with people. I love playing games and connecting with people.
 

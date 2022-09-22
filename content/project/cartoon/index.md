@@ -1,6 +1,6 @@
 ---
 title: UX Writing Case Study | Pasarnow
-date: 2022-01-01
+date: 2022-09-21T15:17:40.352Z
 summary: |-
   Overview
   Pasarnow is a multichannel online grocery marketplace.

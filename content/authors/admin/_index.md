@@ -14,6 +14,11 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@ikhsan97
+  - display:
+      header: false
+    link: https://www.instagram.com/ikhsan_rmdhn12/
+    icon_pack: fab
+    icon: instagram
 organizations: []
 superuser: true
 status:
